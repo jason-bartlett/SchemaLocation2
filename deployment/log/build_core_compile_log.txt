@@ -1,0 +1,13 @@
+﻿Buildfile: C:\Mendix Projects\SchemaLocation\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 28 source files to C:\Mendix Projects\SchemaLocation\deployment\run\bin
+
+build:
+      [bnd] # addAll 'deployment/run/bnd.bnd' with ,
+      [bnd] # project (project.jar) 50 
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
