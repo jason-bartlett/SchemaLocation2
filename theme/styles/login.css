@@ -10,7 +10,7 @@ html, body {
     margin: auto;
     text-align: center;
 }
-.login-form {
+.login-form {  
     display: table-cell;
     padding: 30px 10px 10px;
     vertical-align: middle;
